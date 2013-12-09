@@ -231,7 +231,6 @@
         else
             turn=1;
     }
-    
 }
 
 - (IBAction)Grid7:(id)sender {
